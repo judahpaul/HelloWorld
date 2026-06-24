@@ -1,4 +1,4 @@
-import azure.functions as func
+import azure.functions as func  # type: ignore[import]
 import datetime
 import json
 import logging
